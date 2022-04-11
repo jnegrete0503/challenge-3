@@ -7,7 +7,7 @@ In this challenge we were asked to start with starter code and make the password
 You are required to submit BOTH of the following for review:
 
 The URL of the deployed application.
--> 
+->  https://jnegrete0503.github.io/challenge-3/
 
 The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 ->
