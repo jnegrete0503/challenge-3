@@ -11,3 +11,8 @@ The URL of the deployed application.
 
 The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 -> https://github.com/jnegrete0503/challenge-3
+
+Image of the deployed webpage 
+
+->
+<img width="2023" alt="Screen Shot 2022-04-11 at 4 45 49 PM" src="https://user-images.githubusercontent.com/99146757/162851028-6bd6508c-8b2c-4b23-84a6-11fb5ed7d9c7.png">
